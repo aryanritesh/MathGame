@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
   Button add;
   Button sub;
   Button mul;
+  Button div;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         add= findViewById(R.id.add);
         sub= findViewById(R.id.sub);
         mul=findViewById(R.id.mul);
+        div=findViewById(R.id.div);
 
         add.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -43,6 +45,14 @@ public class MainActivity extends AppCompatActivity {
                 Intent intent= new Intent(MainActivity.this,Game2.class);
                 startActivity(intent);
 
+            }
+        });
+
+        div.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent= new Intent(MainActivity.this,Game3.class);
+                startActivity(intent);
             }
         });
 

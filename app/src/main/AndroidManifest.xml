@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MathGame">
         <activity
+            android:name=".Game3"
+            android:exported="true" />
+        <activity
             android:name=".Game2"
             android:exported="true" />
         <activity
