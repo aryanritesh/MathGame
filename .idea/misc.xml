@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/drawable-v31/bt2.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/drawable/bt1.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/drawable/bt2.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/drawable/bt3.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/font/.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_game.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_game1.xml" value="0.1796875" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_game2.xml" value="0.1796875" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/aryan/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_result.xml" value="0.3333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
